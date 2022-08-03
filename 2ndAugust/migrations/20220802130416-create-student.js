@@ -17,11 +17,10 @@ module.exports = {
         type: DataTypes.STRING,
         allowNull: false,
       },
-      age: {
-        type: DataType.INTEGER
-      },
+      age:DataType.INTEGER,
       email: {
-        type: DataType.STRING
+        type: DataTypes.STRING,
+        allowNull: false,
       },
       createdAt: {
         allowNull: false,
