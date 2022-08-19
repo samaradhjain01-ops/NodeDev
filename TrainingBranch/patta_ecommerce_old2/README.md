@@ -1,0 +1,1 @@
+npm install --save express path mysql2 dotenv

@@ -1,0 +1,6 @@
+// npm install --save express path mysql2 sequelize
+// npm install -g sequelize-cli
+// sequelize-cli init
+// sequelize model:generate --name Student --attributes roll:string,name:string,age:number,email:string
+
+// sequelize db:migrate 

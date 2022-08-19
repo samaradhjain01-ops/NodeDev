@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "D!vit007",
+    "database": "pataa_ecommerce_training",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "D!vit007",
+    "database": "pataa_ecommerce_training",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "D!vit007",
+    "database": "pataa_ecommerce_training",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
